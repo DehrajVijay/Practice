@@ -23,6 +23,7 @@ public class bubbleSort {
 				}
 			}
 		}
+		// Method calling
 		printArray(arr);
 	}
 }
